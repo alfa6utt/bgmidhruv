@@ -6,7 +6,7 @@
             "version": "latest"
         }
     },
-    "postStartCommand": "python3 /workspaces/bgmidhru/sahil.py",
+    "postStartCommand": "python3 /workspaces/bgmidhruv/sahil.py",
     "customizations": {
         "vscode": {
             "settings": {
@@ -17,5 +17,5 @@
             ]
         }
     }
-}
+}.
 
